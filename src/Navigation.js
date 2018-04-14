@@ -8,7 +8,7 @@ import { NavLink } from 'react-router-dom';
 export default class Navigation extends Component {
     render() {
         return (
-            <Sidebar as={Menu} visible icon="labeled" vertical>
+            <Sidebar as={Menu} visible icon="labeled" vertical color="blue" borderless>
                 <Menu.Item name="announcements" as={NavLink} to="/announcements">
                     <Icon name="announcement" /> Announcements
                 </Menu.Item>
