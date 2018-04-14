@@ -15,11 +15,14 @@ export default class Navigation extends Component {
                 <Menu.Item name="schedule" as={NavLink} to="/schedule">
                     <Icon name="calendar" /> Schedule
                 </Menu.Item>
-                <Menu.Item name="stride">
-                    <Icon name="chat" /> Stride
-                </Menu.Item>
                 <Menu.Item name="project" as={NavLink} to="/project">
                     <Icon name="idea" /> Project
+                </Menu.Item>
+                <Menu.Item as="a" href="https://www.stride.com" name="stride">
+                    <Icon name="chat" /> Stride
+                </Menu.Item>
+                <Menu.Item as="a" href="https://github.com/azcs101" target="_blank" rel="external">
+                    <Icon name="github" /> Github
                 </Menu.Item>
             </Sidebar>
         );
