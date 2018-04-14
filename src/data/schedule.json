@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Introduction",
+		"content": "Logistics, Intro to Development, Intro to HTML",
+		"day": "04/17"
+	},
+	{
+		"title": "More HTML",
+		"content": "HTML in more detail",
+		"day": "04/20"
+	},
+	{
+		"title": "Adding Styles",
+		"content": "CSS Basics",
+		"day": "04/24"
+	},
+	{
+		"title": "Layouts",
+		"content": "CSS Layouts",
+		"day": "04/27"
+	},
+	{
+		"title": "How computers work",
+		"content": "C++, Pointers, RAM",
+		"day": "05/01"
+	},
+	{
+		"title": "Intro to OOP",
+		"content": "Object Oriented Programming, Classes",
+		"day": "05/04"
+	},
+	{
+		"title": "Data Structures and Algorithms",
+		"content": "Discussion about various Data Structures and Algorithms",
+		"day": "05/08"
+	},
+	{
+		"title": "Design Patterns",
+		"content": "What are design patterns? Why are they needed?",
+		"day": "05/11"
+	}
+]
