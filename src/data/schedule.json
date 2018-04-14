@@ -42,5 +42,15 @@
 		"title": "Lecture 8: Design Patterns",
 		"content": "What are design patterns? Why are they needed?",
 		"date": "05/11"
+	},
+	{
+		"title": "Lecture 9: Intro to Javascript",
+		"content": "JS Syntax, ES6, Docs",
+		"date": "05/15"
+	},
+	{
+		"title": "Lecture 10: Javascript in server-side",
+		"content": "NodeJS, Package Management, HTTP, APIs",
+		"date": "05/18"
 	}
 ]
