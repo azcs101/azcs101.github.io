@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { string, shape, arrayOf } from 'prop-types';
 
 import { Accordion } from 'semantic-ui-react';
 
@@ -14,9 +15,17 @@ export class ScheduleList extends Component {
 
     render() {
         return (
-            <Accordion>
+            <Accordion styled fluid>
                 {this.props.data.map((item, i) =>
-                    <ScheduleListItem active={this.state.active} index={i} title={item.title} handleClick={this.handleClick}>
+                    <ScheduleListItem
+                        index={i}
+                        key={i}
+                        active={this.state.active}
+                        title={item.title}
+                        date={item.date}
+                        links={item.links}
+                        handleClick={this.handleClick}
+                    >
                         {item.content}
                     </ScheduleListItem>
                 )}
@@ -24,5 +33,21 @@ export class ScheduleList extends Component {
         );
     }
 }
+
+ScheduleList.propTypes = {
+    data: arrayOf(shape({
+        title: string.isRequired,
+        date: string.isRequired,
+        content: string.isRequired,
+        links: shape({
+            slides: string,
+            source: string
+        })
+    }))
+};
+
+ScheduleList.defaultProps = {
+    data: []
+};
 
 export default ScheduleList;

@@ -9,8 +9,8 @@ export default class Navigation extends Component {
     render() {
         return (
             <Sidebar as={Menu} visible icon="labeled" vertical>
-                <Menu.Item name="home" as={NavLink} to="/">
-                    <Icon name="home" /> Home
+                <Menu.Item name="announcements" as={NavLink} to="/announcements">
+                    <Icon name="announcement" /> Announcements
                 </Menu.Item>
                 <Menu.Item name="schedule" as={NavLink} to="/schedule">
                     <Icon name="calendar" /> Schedule
