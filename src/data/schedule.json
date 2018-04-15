@@ -2,11 +2,7 @@
 	{
 		"title": "Lecture 1: Introduction",
 		"content": "Logistics, Intro to Development, Intro to HTML",
-		"date": "04/17",
-		"links": {
-			"slides": "slides.pdf",
-			"source": "source_code"
-		}
+		"date": "04/17"
 	},
 	{
 		"title": "Lecture 2: More HTML",

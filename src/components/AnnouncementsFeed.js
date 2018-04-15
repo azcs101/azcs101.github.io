@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { string, arrayOf, shape } from 'prop-types';
 
 import { Feed, Icon } from 'semantic-ui-react';

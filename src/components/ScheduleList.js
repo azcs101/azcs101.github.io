@@ -10,7 +10,7 @@ export class ScheduleList extends Component {
     state = { active: 0 };
 
     handleClick = (e, { index }) => {
-        this.setState({ active: index == this.state.active ? -1 : index });
+        this.setState({ active: index === this.state.active ? -1 : index });
     }
 
     render() {

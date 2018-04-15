@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import { string, number, node, func, shape } from 'prop-types';
 
-import { Accordion, Icon, Transition, Grid, Button } from 'semantic-ui-react';
+import { Accordion, Icon, Grid, Button } from 'semantic-ui-react';
 
 const ScheduleListItem = ({ index, links, active, title, date, children, handleClick }) =>
     <Fragment>
@@ -10,7 +10,7 @@ const ScheduleListItem = ({ index, links, active, title, date, children, handleC
                 <Grid.Column width={5}>
                     <Icon name="list layout" /> {title}
                 </Grid.Column>
-                <Grid.Column floated="right" textAlign="right">
+                <Grid.Column floated="right" textAlign="right" width={5}>
                     {date}
                 </Grid.Column>
             </Grid>
