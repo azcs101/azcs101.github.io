@@ -1,5 +1,12 @@
 [
 	{
+		"icon": "cloud upload",
+		"user": "Gasim Gasimzada",
+		"summary": "added content",
+		"date": "04/17/2018",
+		"content": "Source code and slides for Lecture 1 are available"
+	},
+	{
 		"icon": "announcement",
 		"user": "Gasim Gasimzada",
 		"summary": "posted a new announcement",
