@@ -9,13 +9,17 @@
 		}
 	},
 	{
-		"title": "Lecture 2: More HTML",
-		"content": "HTML in more detail",
-		"date": "04/20"
+		"title": "Lecture 2: Adding styles",
+		"content": "Font, Text, Color, Blocks, Layouts",
+		"date": "04/20",
+		"links": {
+			"slides": "https://drive.google.com/file/d/1jEN_x1eD3EZVbUA_-8c6QKv795H75ysp/view",
+			"source": "https://github.com/azcs101/lecture-2"
+		}
 	},
 	{
-		"title": "Lecture 3: Adding Styles",
-		"content": "CSS Basics",
+		"title": "Lecture 3: Web Development",
+		"content": "Building layouts and components with HTML and CSS",
 		"date": "04/24"
 	},
 	{
