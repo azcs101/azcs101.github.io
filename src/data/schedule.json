@@ -20,41 +20,35 @@
 	{
 		"title": "Lecture 3: Web Development",
 		"content": "Building layouts and components with HTML and CSS",
-		"date": "04/24"
+		"date": "04/24",
+		"links": {
+			"slides": "https://drive.google.com/file/d/1-W_6C_fdQ3QTXjFRFmuEK3vrzxhBy3zK/view",
+			"source": "https://github.com/azcs101/lecture-2"
+		}
 	},
 	{
-		"title": "Lecture 4: Layouts",
-		"content": "CSS Layouts",
+		"title": "Lecture 4: Introduction to C++",
+		"content": "Basics, Pointers, RAM",
 		"date": "04/27"
 	},
 	{
-		"title": "Lecture 5: How computers work",
-		"content": "C++, Pointers, RAM",
+		"title": "Lecture 5: Intro to OOP",
+		"content": "Object Oriented Programming, Classes, Design Patterns",
 		"date": "05/01"
 	},
 	{
-		"title": "Lecture 6: Intro to OOP",
-		"content": "Object Oriented Programming, Classes",
+		"title": "Lecture 6: Data Structures and Algorithms",
+		"content": "Discussion about various Data Structures and Algorithms",
 		"date": "05/04"
 	},
 	{
-		"title": "Lecture 7: Data Structures and Algorithms",
-		"content": "Discussion about various Data Structures and Algorithms",
-		"date": "05/08"
-	},
-	{
-		"title": "Lecture 8: Design Patterns",
-		"content": "What are design patterns? Why are they needed?",
-		"date": "05/11"
-	},
-	{
-		"title": "Lecture 9: Intro to Javascript",
+		"title": "Lecture 7: Intro to Javascript",
 		"content": "JS Syntax, ES6, Docs",
-		"date": "05/15"
+		"date": "05/08"
 	},
 	{
 		"title": "Lecture 10: Javascript in server-side",
 		"content": "NodeJS, Package Management, HTTP, APIs",
-		"date": "05/18"
+		"date": "05/11"
 	}
 ]
