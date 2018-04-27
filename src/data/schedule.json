@@ -29,7 +29,11 @@
 	{
 		"title": "Lecture 4: Introduction to C++",
 		"content": "Basics, Pointers, RAM",
-		"date": "04/27"
+		"date": "04/27",
+		"links": {
+			"slides": "https://drive.google.com/file/d/18Ucz4MPdqr8a_vPmHowXnwP5WiuFjTue/view",
+			"source": "https://github.com/azcs101/lecture-4"
+		}
 	},
 	{
 		"title": "Lecture 5: Intro to OOP",
