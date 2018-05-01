@@ -36,13 +36,17 @@
 		}
 	},
 	{
-		"title": "Lecture 5: Intro to OOP",
-		"content": "Object Oriented Programming, Classes, Design Patterns",
-		"date": "05/01"
+		"title": "Lecture 5: Data structures",
+		"content": "Discussion about various Data Structures",
+		"date": "05/01",
+		"links": {
+			"slides": "https://drive.google.com/open?id=1Uih1VVwbv6-zwTDu72wPIP5S69njuT7B",
+			"source": "https://github.com/azcs101/lecture-5"
+		}
 	},
 	{
-		"title": "Lecture 6: Data Structures and Algorithms",
-		"content": "Discussion about various Data Structures and Algorithms",
+		"title": "Lecture 6: OOP",
+		"content": "Object Oriented Programming, Classes, Design Patterns",
 		"date": "05/04"
 	},
 	{
