@@ -47,7 +47,11 @@
 	{
 		"title": "Lecture 6: OOP",
 		"content": "Object Oriented Programming, Classes, Design Patterns",
-		"date": "05/04"
+		"date": "05/04",
+		"links": {
+			"slides": "https://drive.google.com/open?id=1jWCzq9F6GD8QNueUCA7sUtyxJPXbNH3N",
+			"source": "https://github.com/azcs101/lecture-6"
+		}
 	},
 	{
 		"title": "Lecture 7: Intro to Javascript",
