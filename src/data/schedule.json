@@ -46,7 +46,7 @@
 	},
 	{
 		"title": "Lecture 6: OOP",
-		"content": "Object Oriented Programming, Classes, Design Patterns",
+		"content": "Data Structures cont., Algorithms, Classes",
 		"date": "05/04",
 		"links": {
 			"slides": "https://drive.google.com/open?id=1jWCzq9F6GD8QNueUCA7sUtyxJPXbNH3N",
@@ -56,7 +56,11 @@
 	{
 		"title": "Lecture 7: Intro to Javascript",
 		"content": "JS Syntax, ES6, Docs",
-		"date": "05/08"
+		"date": "05/08",
+		"links": {
+			"slides": "https://drive.google.com/open?id=1VE8L973g1wMSL5X_quSdkO4gnt_HgPqD",
+			"source": "https://github.com/azcs101/lecture-7"
+		}
 	},
 	{
 		"title": "Lecture 10: Javascript in server-side",
